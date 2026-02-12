@@ -1,6 +1,6 @@
-# VectorShift - Visual Pipeline Builder
+# FlowCanvas
 
-VectorShift is a web-based tool that helps you design data processing pipelines visually. Instead of writing code, you can drag and drop different types of nodes (like input, output, text processing, LLM, math operations, filters, and more) and connect them together to create workflows. The application automatically validates your pipelines to ensure they work correctly without any circular connections.
+FlowCanvas is a web-based tool that helps you design data processing pipelines visually. Instead of writing code, you can drag and drop different types of nodes (like input, output, text processing, LLM, math operations, filters, and more) and connect them together to create workflows. The application automatically validates your pipelines to ensure they work correctly without any circular connections.
 
 ## Features
 
